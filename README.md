@@ -6,3 +6,7 @@ Diferenças entre Git e Github
 
 ### Seção 2: Installation of the Git and configuration of the Shell
 iTerm Z-Shel programas com terminal customizados
+
+### Seção 3: Basic Shell commands
+comando *start* para abrir um local pelo bash.
+echo "Hello Maison" > another-file.txt
